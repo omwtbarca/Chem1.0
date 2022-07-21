@@ -1,5 +1,5 @@
 # Chem1.0
-
+## Cero. Basic Cheminformatics Beta(@Mr.Cong)
 ## Uno. *rdkit* | A python libtary aimed to solve chemistry problems...
 > 和许多软件一样，输入源自Wikipedia的smiles码
 * 生成分子结构式，
