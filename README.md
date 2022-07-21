@@ -6,3 +6,5 @@
 * 可以输出分子质量
 * 可以检索分子中元素或者基团（本质就是ASCII码中的元素）
 * 应用范围举例：中草药的指纹图谱识别分类，分析数据来源：气质HPLC-MS,GC-MS……
+eg:![image](https://user-images.githubusercontent.com/87826552/180202623-5c768da6-a0db-412a-8403-3edf856c26e4.png)
+![image](https://user-images.githubusercontent.com/87826552/180202709-1e04b514-a0ff-499a-abad-6e135c59d009.png)
