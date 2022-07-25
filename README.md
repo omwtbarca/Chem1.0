@@ -1,6 +1,8 @@
 # Chem1.0
 ## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12
 ## Uno. *rdkit* | A python libtary aimed to solve chemistry problems... 2022.7.15-
+
+[Cheat Sheet🦑](https://xinhaoli74.github.io/posts/2020/04/RDKit-Cheatsheet/)
 > 和许多软件一样，输入源自Wikipedia的smiles码
 * 生成分子结构式，
 * 可以输出分子质量
