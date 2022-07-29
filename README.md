@@ -5,7 +5,7 @@
 |---|---|---|
 | Cero. |<a href="## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12">Basic Cheminformatics Beta</a>| 2021.9-12|
 | Uno. |<a href="## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-">rdkit-A python libtary aimed to solve chemistry problems</a> |2022.7.30-|
-| Dos. |<a href="## Dos. [ChemPy-Python package](https://pythonhosted.org/chempy/#about-chempy)">ChemPy-Python package</a>| 2022.7.21-26|
+| Dos. |<a href="## Dos. ChemPy-Python package">ChemPy-Python package</a>| 2022.7.21-26|
 
 ## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12
 ## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-
