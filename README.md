@@ -45,3 +45,9 @@ $${\mathscr{2022年7月21日-26日}}$$
 硫酸密度是温度和重量分数H₂SO₄的函数
 
 
+| No. |Name   |Date|
+|---|---|---|
+| Cero. |<a href="## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12">Basic Cheminformatics Beta</a>| 2021.9-12|
+| Uno. |<a href="## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-">rdkit-A python libtary aimed to solve chemistry problems</a> |2022.7.30-|
+| Dos. |<a href="## Dos. ChemPy-Python package">ChemPy-Python package</a>| 2022.7.21-26|
+
