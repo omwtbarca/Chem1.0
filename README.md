@@ -1,6 +1,19 @@
 # Chem1.0
+
+
+| No. |Name   |Date|
+|---|---|---|
+| Cero. |<a href="## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12">Basic Cheminformatics Beta</a>| 2021.9-12|
+| Uno. |<a href="## Uno. *rdkit* | A python libtary aimed to solve chemistry problems... 2022.7.15-">rdkit-A python libtary aimed to solve chemistry problems</a> |20220730-|
+
+
 ## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12
 ## Uno. *rdkit* | A python libtary aimed to solve chemistry problems... 2022.7.15-
+
+| No. |Name   |Date|
+|---|---|---|
+| Cero. |[Basic Cheminformatics Beta](## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12)   | 2021.9-12|
+| Uno. |[*rdkit* \| A python libtary aimed to solve chemistry problems](## Uno. *rdkit* | A python libtary aimed to solve chemistry problems... 2022.7.15-)   |20220730-|
 
 [Cheat Sheet🦑](https://xinhaoli74.github.io/posts/2020/04/RDKit-Cheatsheet/)
 > 和许多软件一样，输入源自Wikipedia的smiles码
@@ -34,3 +47,8 @@ $${\mathscr{2022年7月21日-26日}}$$
 水的介电常数是温度和压力的函数
 水的扩散率是温度的函数
 硫酸密度是温度和重量分数H₂SO₄的函数
+
+
+[fdsa ](#Chem1.0)
+
+<a href="# Chem1.0">跳转到更新</a>
