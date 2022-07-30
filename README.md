@@ -30,7 +30,7 @@ Table of contents
 
 | No. |Name   |Date|
 |---|---|---|
-| Cero. |[Cero. Basic Cheminformatics Beta](#cero.basic-cheminformatics-beta)| 2021.9-12|
+| Cero. |[Basic Cheminformatics Beta](#basic-cheminformatics-beta)| 2021.9-12|
 | Uno. |[Uno.rdkit-A python libtary aimed to solve chemistry problems... ](#uno.rdkit-A-python-libtary-aimed-to-solve-chemistry-problems... )|2022.7.30-|
 | Dos. |[Header Name](#header-name)| 2022.7.21-26|
 
@@ -40,7 +40,7 @@ Table of contents
 
 - [Dos.ChemPy-Python package](## Dos. ChemPy-Python package)
 
-## Cero.Basic Cheminformatics Beta
+
 
 (@Mr.Cong) 2021.9-12
 ## Uno.rdkit-A python libtary aimed to solve chemistry problems... 
@@ -84,5 +84,5 @@ $${\mathscr{2022年7月21日-26日}}$$
 硫酸密度是温度和重量分数H₂SO₄的函数
 
 
-
+## Basic Cheminformatics Beta
 
