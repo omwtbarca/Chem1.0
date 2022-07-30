@@ -19,20 +19,14 @@ Table of contents
 
 [Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12](##cero.-basic-cheminformatics-beta(@Mr.Cong)-2021.9-12)
 
-<summary> El List </summary>
-<details> - [Cero. Basic Cheminformatics Beta](## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12)
 
-- [Uno. *rdkit* -A python libtary aimed to solve chemistry problems](## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-)
-
-- [Dos.ChemPy-Python package](## Dos. ChemPy-Python package)
-</details>
 
 
 | No. |Name   |Date|
 |---|---|---|
 | Cero. |[Basic Cheminformatics Beta](#basic-cheminformatics-beta)| 2021.9-12|
-| Uno. |[Uno.rdkit-A python libtary aimed to solve chemistry problems... ](#uno.rdkit-A-python-libtary-aimed-to-solve-chemistry-problems... )|2022.7.30-|
-| Dos. |[Header Name](#header-name)| 2022.7.21-26|
+| Uno. |[rdkit](#rdkit)|2022.7.30-|
+| Dos. |[ChemPy Python Package](#chemPy-python-package)| 2022.7.21-26|
 
 [Cero. Basic Cheminformatics Beta](#Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12)
 
@@ -43,9 +37,9 @@ Table of contents
 
 
 (@Mr.Cong) 2021.9-12
-## Uno.rdkit-A python libtary aimed to solve chemistry problems... 
+## rdkit
 
-2022.7.15-
+A python libtary aimed to solve chemistry problems... 2022.7.15-
 
 
 [Cheat Sheet🦑](https://xinhaoli74.github.io/posts/2020/04/RDKit-Cheatsheet/)
@@ -56,7 +50,7 @@ Table of contents
 * 应用范围举例：中草药的指纹图谱识别分类，分析数据来源：气质HPLC-MS,GC-MS……
 eg:![image](https://user-images.githubusercontent.com/87826552/180202623-5c768da6-a0db-412a-8403-3edf856c26e4.png)
 ![image](https://user-images.githubusercontent.com/87826552/180202709-1e04b514-a0ff-499a-abad-6e135c59d009.png)
-## Dos.ChemPy-Python package
+## ChemPy Python Package
 offical〽️：[ChemPy-Python package](https://pythonhosted.org/chempy/#about-chempy)
 
 > Chapter 178 of the e-book "python notes for professionals"    
