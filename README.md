@@ -9,7 +9,7 @@ Then link to it by the ID attribute:
 [see above](#login-optional-fields)
 
 
-[Dos. ChemPy-Python package](#dos.-chemPy-Python-package)
+[Dos. ChemPy-Python package](##dos.-chemPy-Python-package)
 
 Table of contents 
 
@@ -17,7 +17,7 @@ Table of contents
 
 [Header Name](#header-name)
 
-[Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12](#cero.-basic-cheminformatics-beta(@Mr.Cong)-2021.9-12)
+[Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12](##cero.-basic-cheminformatics-beta(@Mr.Cong)-2021.9-12)
 
 <summary> El List </summary>
 <details> - [Cero. Basic Cheminformatics Beta](## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12)
