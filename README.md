@@ -30,8 +30,8 @@ Table of contents
 
 | No. |Name   |Date|
 |---|---|---|
-| Cero. |<a href="## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12">Basic Cheminformatics Beta</a>| 2021.9-12|
-| Uno. |<a href="## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-">rdkit-A python libtary aimed to solve chemistry problems</a> |2022.7.30-|
+| Cero. |[Cero. Basic Cheminformatics Beta](#cero.Basic-cheminformatics-beta)| 2021.9-12|
+| Uno. |[Uno.rdkit-A python libtary aimed to solve chemistry problems... ](#uno.rdkit-A python libtary aimed to solve chemistry problems... )|2022.7.30-|
 | Dos. |[Header Name](#header-name)| 2022.7.21-26|
 
 [Cero. Basic Cheminformatics Beta](#Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12)
@@ -40,8 +40,12 @@ Table of contents
 
 - [Dos.ChemPy-Python package](## Dos. ChemPy-Python package)
 
-## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12
-## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-
+## Cero.Basic Cheminformatics Beta
+
+(@Mr.Cong) 2021.9-12
+## Uno.rdkit-A python libtary aimed to solve chemistry problems... 
+
+2022.7.15-
 
 
 [Cheat Sheet🦑](https://xinhaoli74.github.io/posts/2020/04/RDKit-Cheatsheet/)
@@ -52,7 +56,7 @@ Table of contents
 * 应用范围举例：中草药的指纹图谱识别分类，分析数据来源：气质HPLC-MS,GC-MS……
 eg:![image](https://user-images.githubusercontent.com/87826552/180202623-5c768da6-a0db-412a-8403-3edf856c26e4.png)
 ![image](https://user-images.githubusercontent.com/87826552/180202709-1e04b514-a0ff-499a-abad-6e135c59d009.png)
-## Dos. ChemPy-Python package
+## Dos.ChemPy-Python package
 offical〽️：[ChemPy-Python package](https://pythonhosted.org/chempy/#about-chempy)
 
 > Chapter 178 of the e-book "python notes for professionals"    
@@ -80,7 +84,5 @@ $${\mathscr{2022年7月21日-26日}}$$
 硫酸密度是温度和重量分数H₂SO₄的函数
 
 
-### Header Name
 
-https://google.com
 
