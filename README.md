@@ -1,11 +1,44 @@
 # Chem1.0
 
+<h4 id="login-optional-fields">
+Optional Fields
+</h4>
+
+Then link to it by the ID attribute:
+
+[see above](#login-optional-fields)
+
+
+[Dos. ChemPy-Python package](#dos.-chemPy-Python-package)
+
+Table of contents 
+
+ 1. [Header Name](#header-name)
+
+[Header Name](#header-name)
+
+[Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12](#cero.-basic-cheminformatics-beta(@Mr.Cong)-2021.9-12)
+
+<summary> El List </summary>
+<details> - [Cero. Basic Cheminformatics Beta](## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12)
+
+- [Uno. *rdkit* -A python libtary aimed to solve chemistry problems](## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-)
+
+- [Dos.ChemPy-Python package](## Dos. ChemPy-Python package)
+</details>
+
 
 | No. |Name   |Date|
 |---|---|---|
 | Cero. |<a href="## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12">Basic Cheminformatics Beta</a>| 2021.9-12|
 | Uno. |<a href="## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-">rdkit-A python libtary aimed to solve chemistry problems</a> |2022.7.30-|
 | Dos. |<a href="## Dos. ChemPy-Python package">ChemPy-Python package</a>| 2022.7.21-26|
+
+[Cero. Basic Cheminformatics Beta](#Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12)
+
+- [Uno. *rdkit* -A python libtary aimed to solve chemistry problems](## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-)
+
+- [Dos.ChemPy-Python package](## Dos. ChemPy-Python package)
 
 ## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12
 ## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-
@@ -20,7 +53,7 @@
 eg:![image](https://user-images.githubusercontent.com/87826552/180202623-5c768da6-a0db-412a-8403-3edf856c26e4.png)
 ![image](https://user-images.githubusercontent.com/87826552/180202709-1e04b514-a0ff-499a-abad-6e135c59d009.png)
 ## Dos. ChemPy-Python package
-[ChemPy-Python package](https://pythonhosted.org/chempy/#about-chempy)
+offical〽️：[ChemPy-Python package](https://pythonhosted.org/chempy/#about-chempy)
 
 > Chapter 178 of the e-book "python notes for professionals"    
 - [x] [chempy](https://bjodah.github.io/chempy/latest/chempy.html#module-chempy.chemistry)   
@@ -47,9 +80,7 @@ $${\mathscr{2022年7月21日-26日}}$$
 硫酸密度是温度和重量分数H₂SO₄的函数
 
 
-| No. |Name   |Date|
-|---|---|---|
-| Cero. |[Cero. Basic Cheminformatics Beta](## Cero. Basic Cheminformatics Beta(@Mr.Cong) 2021.9-12)| 2021.9-12|
-| Uno. |[Uno. *rdkit* -A python libtary aimed to solve chemistry problems](## Uno. *rdkit* -A python libtary aimed to solve chemistry problems... 2022.7.15-)|2022.7.30-|
-| Dos. |[ChemPy-Python package](## Dos. ChemPy-Python package)| 2022.7.21-26|
+### Header Name
+
+https://google.com
 
