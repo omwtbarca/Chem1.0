@@ -1,11 +1,12 @@
 # Chem1.0
 
 
-| No. |Name   |Date|
-|---|---|---|
-| Cero. |[Basic Cheminformatics Beta](#basic-cheminformatics-beta)| 2021.9-12|
-| Uno. |[rdkit](#rdkit)|2022.7.30-|
-| Dos. |[ChemPy Python Package](#chemPy-python-package)| 2022.7.21-26|
+| No. |Name   |Date|Rank|Progress|
+|---|---|---|---|---|
+| Cero. |[Basic Cheminformatics Beta](#basic-cheminformatics-beta)| 2021.9-12|⭐⭐⭐⭐⭐|100%|
+| Uno. |[rdkit](#rdkit)|2022.7.30-|⭐⭐⭐⭐⭐|100%|
+| Dos. |[ChemPy Python Package](#chemPy-python-package)| 2022.7.21-26|⭐⭐⭐⭐⭐|100%|
+
 
 
 
