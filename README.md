@@ -12,7 +12,8 @@
 ## Basic Cheminformatics Beta
 
 (@Mr.Cong) 2021.9-12
-## rdkit   [back](#chem1.0)
+## rdkit   
+[back](#chem1.0)
 
 A python libtary aimed to solve chemistry problems... 2022.7.15-
 
@@ -25,7 +26,8 @@ A python libtary aimed to solve chemistry problems... 2022.7.15-
 * 应用范围举例：中草药的指纹图谱识别分类，分析数据来源：气质HPLC-MS,GC-MS……
 eg:![image](https://user-images.githubusercontent.com/87826552/180202623-5c768da6-a0db-412a-8403-3edf856c26e4.png)
 ![image](https://user-images.githubusercontent.com/87826552/180202709-1e04b514-a0ff-499a-abad-6e135c59d009.png)
-## ChemPy Python Package  [back](#chem1.0)
+## ChemPy Python Package  
+[back](#chem1.0)
 offical〽️：[ChemPy-Python package](https://pythonhosted.org/chempy/#about-chempy)
 
 > Chapter 178 of the e-book "python notes for professionals"    
